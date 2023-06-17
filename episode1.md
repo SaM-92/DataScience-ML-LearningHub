@@ -3,20 +3,20 @@
 🚀 Welcome to the first episode of our learning series! In this episode, we will guide you on how to start learning Python and dive into the exciting field of data analysis. Whether you're a beginner or looking to enhance your skills, this episode will provide you with valuable resources to learn Python and kickstart your data analysis journey.
 
 
-![Overview](images/diagram.png)
+![Overview](Images/ep1_Python_DS.png)
 
 
 ## Learning Python
 
 🐍 Python is a popular programming language for data analysis and machine learning. Here are four free and efficient resources to help you get started with Python:
 
-1. [Python.org](https://www.python.org/): The official Python website provides comprehensive documentation, tutorials, and a rich collection of resources to learn Python from scratch.
+1. [Complete Python Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/tree/master/00-Python%20Object%20and%20Data%20Structure%20Basics): A github notebook for learning Python! 
 
-2. [Codecademy](https://www.codecademy.com/learn/learn-python-3): Codecademy offers an interactive Python course that covers the basics and beyond. It provides a hands-on learning experience with exercises and projects.
+2. [Python for Absolute Beginners!](https://www.udemy.com/course/free-python/): This course was designed for complete beginners with little to no understanding of programming, and will give you the knowledge to get started coding using Python 3
 
-3. [Coursera](https://www.coursera.org/learn/python): Coursera offers various Python courses from top universities and instructors. You can enroll in these courses for free and access the course materials and video lectures.
+3. [YouTube](https://www.youtube.com/watch?v=nLRL_NcnK-4): Harvard CS50’s Introduction to Programming with Python – Full University Course
 
-4. [FreeCodeCamp](https://www.freecodecamp.org/learn/): FreeCodeCamp's Python course is a self-paced learning resource that includes video tutorials, interactive exercises, and projects to reinforce your Python skills.
+4. [Learn Python 3 by jerry-git](https://github.com/jerry-git/learn-python3): This repository contains a collection of materials for teaching/learning Python 3 (3.10+)
 
 ## Starting with Data Analysis
 
