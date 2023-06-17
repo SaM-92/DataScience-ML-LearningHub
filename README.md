@@ -15,7 +15,7 @@ Image Credits: [Designed by starline / Freepik](http://www.freepik.com)
 
 📚 Each episode in DataMastermind focuses on a specific topic and provides comprehensive learning materials. We regularly update the repository with new notebooks, ensuring you have access to the latest content. Here's a glimpse of what you can expect:
 
-- Episode 1: Kick Off - Introduction to Python & Data Science
+- [Episode 1](https://github.com/SaM-92/DataScience-ML-LearningHub/blob/main/episode1.md): Kick Off - Introduction to Python & Data Science
 
 🚀 In Episode 1, we kick off our journey into the world of data science with an introduction to free resources. 
 
