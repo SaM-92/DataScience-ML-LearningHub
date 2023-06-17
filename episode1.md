@@ -3,7 +3,7 @@
 🚀 Welcome to the first episode of our learning series! In this episode, we will guide you on how to start learning Python and dive into the exciting field of data analysis. Whether you're a beginner or looking to enhance your skills, this episode will provide you with valuable resources to learn Python and kickstart your data analysis journey.
 
 
-![Overview](Images/ep1_Python_DS.png)
+![Overview](Images/ep_1.png)
 
 
 ## Learning Python
