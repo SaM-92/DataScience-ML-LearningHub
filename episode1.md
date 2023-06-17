@@ -10,25 +10,29 @@
 
 🐍 Python is a popular programming language for data analysis and machine learning. Here are four free and efficient resources to help you get started with Python:
 
-1. [Complete Python Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/tree/master/00-Python%20Object%20and%20Data%20Structure%20Basics): A github notebook for learning Python! 
+1. [Complete Python Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/tree/master/00-Python%20Object%20and%20Data%20Structure%20Basics): A github notebook for learning Python!
 
-2. [Python for Absolute Beginners!](https://www.udemy.com/course/free-python/): This course was designed for complete beginners with little to no understanding of programming, and will give you the knowledge to get started coding using Python 3
+2. [Kaggle](https://www.kaggle.com/learn/overview): Kaggle provides free hands-on data analysis courses. It offers real-world datasets and challenges to practice your data analysis skills and learn from the Kaggle community.
 
-3. [YouTube](https://www.youtube.com/watch?v=nLRL_NcnK-4): Harvard CS50’s Introduction to Programming with Python – Full University Course
+3. [Python for Absolute Beginners!](https://www.udemy.com/course/free-python/): This course was designed for complete beginners with little to no understanding of programming, and will give you the knowledge to get started coding using Python 3
 
-4. [Learn Python 3 by jerry-git](https://github.com/jerry-git/learn-python3): This repository contains a collection of materials for teaching/learning Python 3 (3.10+)
+4. [YouTube](https://www.youtube.com/watch?v=nLRL_NcnK-4): Harvard CS50’s Introduction to Programming with Python – Full University Course
+
+5. [Learn Python 3 by jerry-git](https://github.com/jerry-git/learn-python3): This repository contains a collection of materials for teaching/learning Python 3 (3.10+)
 
 ## Starting with Data Analysis
 
 📊 Data analysis is a crucial skill in today's data-driven world. Here are four free resources to help you begin your data analysis journey:
 
-1. [DataCamp](https://www.datacamp.com/): DataCamp offers an extensive collection of interactive courses on data analysis using Python. It covers various topics, including data manipulation, visualization, and exploratory data analysis.
+1. [Microsoft](https://github.com/microsoft/Data-Science-For-Beginners): Microsoft offers a 10-week, 20-lesson curriculum all about Data Science
 
 2. [Kaggle](https://www.kaggle.com/learn/overview): Kaggle provides free hands-on data analysis courses. It offers real-world datasets and challenges to practice your data analysis skills and learn from the Kaggle community.
 
 3. [DataQuest](https://www.dataquest.io/): DataQuest offers interactive courses and projects to learn data analysis. It provides step-by-step guidance and real-world datasets to gain practical experience.
 
-4. [Google's Python Class](https://developers.google.com/edu/python): Google's Python Class is a free tutorial that covers the basics of Python and its application in data analysis. It includes video lectures and exercises to help you understand the concepts.
+4. [Data Science for All : A foundation course](https://www.udemy.com/course/data-science-for-all/): Learn everything you need to know about fast-growing field of Data Science without having to write a single line of code
+
+5. [Statistics and probability](https://www.khanacademy.org/math/statistics-probability): Learn statistics and probability for free—everything you'd want to know about descriptive and inferential statistics
 
 ## Have Questions or Feedback?
 
