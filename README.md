@@ -2,7 +2,7 @@
 # DataMastermind
 
 Welcome to DataMastermind, a delightful collection of free resources and tutorials for Python, data science, and machine learning!
-![Intro](cover.png)
+![Intro](cover_updated_1.png)
 
 Image Credits: [Designed by starline / Freepik](http://www.freepik.com)
 
