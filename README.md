@@ -21,7 +21,7 @@ Welcome to DataMastermind, a delightful collection of free resources and tutoria
   
  🚀 In Episode 2, we delve into the fascinating topic of selecting the most suitable chart for our data. We explore the decision-making process behind choosing the right chart to effectively visualise our data 📊🔍✨
  
-- [Episode 2-English](https://github.com/SaM-92/DataScience-ML-LearningHub/blob/main/Persian-eposide2.md):
+- [Episode 2-English](https://github.com/SaM-92/DataScience-ML-LearningHub/blob/main/Episode2.md):
   
  🚀 In Episode 2, we delve into the fascinating topic of selecting the most suitable chart for our data. We explore the decision-making process behind choosing the right chart to effectively visualise our data 📊🔍✨
 
